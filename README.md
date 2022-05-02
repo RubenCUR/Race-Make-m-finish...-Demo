@@ -7,6 +7,8 @@ Race! Make 'm finish... Demo - [Download here (Windows x64)](https://github.com/
 
 Race! Make 'm finish... Demo - [Download here (Windows x86)](https://github.com/RubenCUR/Race-Make-m-finish...-Demo/releases/download/demo/Race.Make.m.finish.x86.zip)
 
+https://user-images.githubusercontent.com/15930554/166198767-0e50a08c-3024-4c41-8f4a-5ad93175d725.mp4
+
 ![Splash Screen and Loading Screen v2](https://user-images.githubusercontent.com/15930554/166195656-00e58bd6-226d-45c7-b464-3b8121266785.png)
 
 ![Game Rules - Baked](https://user-images.githubusercontent.com/15930554/166197269-b03aa374-b938-4922-aea9-f1b406c22f43.png)
