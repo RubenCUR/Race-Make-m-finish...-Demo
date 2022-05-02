@@ -7,3 +7,6 @@ Race! Make 'm finish... Demo - [Download here (x86)](https://github.com/RubenCUR
 
 ![Splash Screen and Loading Screen v2](https://user-images.githubusercontent.com/15930554/166195656-00e58bd6-226d-45c7-b464-3b8121266785.png)
 
+![Game Rules - Baked](https://user-images.githubusercontent.com/15930554/166197269-b03aa374-b938-4922-aea9-f1b406c22f43.png)
+![PS4 Controller Layout](https://user-images.githubusercontent.com/15930554/166197302-38512e66-c8ee-4040-a813-c832c850ea3a.png)
+![Xbox Controller Layout](https://user-images.githubusercontent.com/15930554/166197308-5d834061-4603-4642-a29e-25a6d459ca7a.png)
