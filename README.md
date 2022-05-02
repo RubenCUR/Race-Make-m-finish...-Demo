@@ -23,3 +23,11 @@ PS4 Controller Layout             |  Xbox Controller Layout
 ![Booklet - Game Interface 1](https://user-images.githubusercontent.com/15930554/166198091-bd42d96a-cc3c-4c62-80b0-2f9817573b53.png)
 
 
+
+
+
+Race! Make 'm finish... Demo - [Download here (Windows x64)](https://github.com/RubenCUR/Race-Make-m-finish...-Demo/releases/download/demo/Race.Make.m.finish.zip)
+
+Race! Make 'm finish... Demo - [Download here (Windows x86)](https://github.com/RubenCUR/Race-Make-m-finish...-Demo/releases/download/demo/Race.Make.m.finish.x86.zip)
+
+Race! Make 'm finish... [Full Game On Steam](https://store.steampowered.com/app/1184460/Race_Make_m_finish/)
