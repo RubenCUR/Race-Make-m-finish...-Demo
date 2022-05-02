@@ -8,8 +8,6 @@ Race! Make 'm finish... Demo - [Download here (Windows x86)](https://github.com/
 
 Race! Make 'm finish... [Full Game On Steam](https://store.steampowered.com/app/1184460/Race_Make_m_finish/)
 
-https://store.steampowered.com/app/1184460/Race_Make_m_finish/
-
 https://user-images.githubusercontent.com/15930554/166198767-0e50a08c-3024-4c41-8f4a-5ad93175d725.mp4
 
 ![Splash Screen and Loading Screen v2](https://user-images.githubusercontent.com/15930554/166195656-00e58bd6-226d-45c7-b464-3b8121266785.png)
